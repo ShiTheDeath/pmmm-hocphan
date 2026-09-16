@@ -10,3 +10,7 @@
   - Brave (Mozilla Public License 2.0 (MPL-2.0))
   - UniKey (GNU GPL v2)
   - MySQL (GNU GPL v2)
+## Giấy phép
+Mã nguồn trong kho này được phát hành
+theo [Giấy phép MIT](LICENSE).
+SPDX-License-Identifier: MIT
