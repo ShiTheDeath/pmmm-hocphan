@@ -1,4 +1,4 @@
-##Phân tích trường hợp rẽ nhánh Elasticsearch – OpenSearch
+## Phân tích trường hợp rẽ nhánh Elasticsearch – OpenSearch
 1. Giới thiệu
 Elasticsearch là công cụ tìm kiếm và phân tích dữ liệu mã nguồn mở được xây dựng trên nền thư viện Apache Lucene, ra đời từ năm 2010. Nhờ khả năng tìm kiếm toàn văn bản (full-text search), xử lý log và hỗ trợ phân tích dữ liệu thời gian thực, Elasticsearch nhanh chóng trở thành một trong những công nghệ nền tảng được sử dụng rộng rãi nhất trong ngành công nghệ thông tin, đặc biệt bởi các nhà cung cấp dịch vụ đám mây. Tuy nhiên, vào năm 2021, dự án này đã trải qua một cuộc rẽ nhánh (fork) lớn, dẫn đến sự ra đời của OpenSearch — một nhánh cạnh tranh trực tiếp do Amazon Web Services (AWS) khởi xướng.
 2. Nguyên nhân của mâu thuẫn
